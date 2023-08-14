@@ -1,0 +1,464 @@
+body{
+    min-width: 100vh;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cryp{
+    background: rgba(12, 13, 46, 0.9) !important;
+}
+.rad{
+    border-radius: 100px;
+    color: #FFFFFF;
+    height: 48px;
+    width: 164px;
+
+
+}
+.nav_a{
+    color: #FFFFFF ;
+}
+.nav_a:hover{
+    color: #189CE8;
+}
+
+/* main  */
+
+
+.main{
+    background: #010225;
+    height: 700px;
+}
+.port{
+    margin-top: 200px;
+}
+.port h1{
+    height: 228px;
+    width: 557px;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 76px;
+    color: #FFFFFF;
+}
+.port p{
+    height: 60px;
+    width: 617px;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 30px;
+    color: #FFFFFF;    
+}
+.app{
+    background: #0C0D2E;
+}
+.finance h2{
+    margin-top: 210px;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 54px;
+    text-align: center; 
+    color: #FFFFFF;
+}
+.finance p {
+    margin-left: 290px;
+    width: 699px;
+    height: 120px;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    color: #FFFFFF;    
+}
+.cub{
+    justify-content: center;
+    margin-top: 60px;
+}
+.cub h4{
+    margin-top: 20px;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    color: #FFFFFF;    
+}
+.cub p{
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+/* Benefit */
+
+.benefit{
+    background: #0C0D2E;
+}
+.page{
+    margin-top: 350px;
+}
+.benefit h3{   
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 54px;
+    text-align: center;
+    color: #FFFFFF;    
+}
+.benefit p{
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+.part{
+    text-align: right;
+    margin-top: 70px;
+    margin-right: 30px;
+}
+.part_2{
+    margin-left: 80px;
+}
+.part i{
+    color:#159BE8;
+}
+.part h5{
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    color: #FFFFFF;        
+}
+.part p{
+    
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;        
+}
+.part_2{
+    text-align: left;;
+}
+.center{
+    justify-content: center;
+}
+.phone{
+    margin-left: 20px;
+}
+.blok_2{
+    margin-top: 90px;
+}
+.blok_3{
+    margin-top: 90px;
+}
+
+/* Info */
+
+.info{
+    background: #010225;
+}
+.light{
+    margin-top: 180px;
+}
+.desc{
+    margin-top: 35px;
+    display: flex;
+}
+.dark{
+    display: flex;
+}
+.light h5{
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #159BE8;
+}
+.light h2{
+    margin-top: 30px;
+    height: 108px;
+    width: 456px;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 54px;
+    color: #FFFFFF;
+}
+.light p{
+    height: 60px;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 30px;
+    color: #FFFFFF;    
+}
+.desc h4{
+    margin-top: 20px;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+.desc p{
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.dark{
+    margin-top: 110px;
+}
+.getcry{
+    margin-top: 75px;
+    height: 48px;
+    background: #159BE8;
+    border: 2px solid #159BE8;
+    border-radius: 100px;
+    color: #FFFFFF;
+}
+
+/* Pricing */
+
+.pricing{
+    background: #010225;
+}
+.price{
+    padding-top: 280px;
+}
+.p_1{
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    text-align: center;
+    color: #159BE8 !important;    
+}
+.price h4{
+    margin-top: 30px;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 54px;  
+    text-align: center;
+    color: #FFFFFF;        
+}
+.price p{
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px; 
+    text-align: center;
+    color: #FFFFFF;    
+}
+.bill{
+    margin-top: 60px;
+}
+.bill h5{
+    margin-right: 20px;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;    
+}
+.bill input{
+    box-sizing: border-box;
+    border: 1px solid rgba(21, 155, 232, 0.2);
+    border-radius: 20px; 
+    /* background-color: #212250;    */
+}
+.save h5{
+    margin-left: 15px;
+}
+.save p{
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #159BE8;    
+}
+.payment{
+    height: 439px;   
+    background: #0C0D2E;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    border-top: 3px solid #159BE8;
+}
+.payment_1{
+    margin-right: 55px;
+}
+.payment_2{
+    border-top: 3px solid  #F95B74;
+}
+.payment_3{
+    margin-left: 55px;
+    border-top: 3px solid  #7C44E2;
+}
+.payment h3{
+    margin-top: 75px;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 42px;
+    color: #FFFFFF;    
+}
+.payment h1{
+    margin-top: 40px;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 56px;
+    color: #FFFFFF;
+}
+.payment p{
+    margin-top: 32px;
+    width: 320px;
+    height: 66px;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center; 
+    color: #FFFFFF;    
+}
+.payment button{
+    margin-top: 35px;
+    border: 2px solid #FFFFFF;
+    border-radius: 100px;
+    color: #FFFFFF;
+}
+.payment_3 button:hover{
+    background-color: #7C44E2;
+    color: #FFFFFF;
+    border-color: #7C44E2;
+}
+
+/* Contact */
+
+.contact{
+    background: #010225;
+    padding-top: 60px;
+}
+.today{
+    margin-left: 100px;
+    margin-top: 60px;
+    width: 1100px;
+    height: 512px;
+    border-radius: 8px;
+    background: #0C0D2E;
+}
+.today h3{
+    margin-top: 140px;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 54px; 
+    text-align: center;
+    color: #FFFFFF;
+}
+.today p{
+    margin-top: 18px;
+    margin-left: 180px;
+    width: 699px;
+    height: 90px;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.today button{
+    margin-left: 20px;
+    margin-top: 60px;
+    border-color: #FFFFFF;
+    border-radius: 100px;
+    color: #FFFFFF;
+}
+.end{
+    margin-top: 80px;
+    background: #0C0D2E;
+}
+.end img{
+    margin-top: 60px;
+}
+.end h3{
+    margin-top: 20px;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 42px;   
+    text-align: center;
+    color: #FFFFFF;
+}
+.end i{
+    margin-left: 30px;
+    width: 25px;
+    height: 25px;
+    color: #FFFFFF;
+    border-radius: 0px;
+}
+.end h4{
+    margin-top: 35px;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px; 
+    text-align: center;
+    color: #FFFFFF;    
+}
+.mail{
+    height: 48px;
+    width: 400px;
+    background: #010225;
+    border: 2px solid #282B53;
+    border-radius: 1px;
+}
+.submit{
+    margin-top: 52px;
+    height: 48px;
+    width: 132px;
+    background: #159BE8;
+    border: 2px solid #159BE8;
+    border-radius: 100px
+}
+.end p{
+    color: #FFFFFF;
+    margin-top: 70px;
+}
